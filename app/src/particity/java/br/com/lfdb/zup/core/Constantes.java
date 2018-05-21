@@ -6,11 +6,11 @@ public class Constantes {
     public static final String PREF_KEY_OAUTH_TOKEN = "oauthToken";
     public static final String PREF_KEY_OAUTH_SECRET = "oauthTokenSecret";
 
-    public static final String REST_URL = "http://particity.cascavel.pr.gov.br:8282";
-    public static final String WEBSITE_URL = "http://particity.cascavel.pr.gov.br";
-    public static final String PLACES_KEY = "AIzaSyCU4b3Ct3TydDXtLLxT38MXAhlf3OkYfrg";
+    public static final String REST_URL = "http://167.99.40.116/api";
+    public static final String WEBSITE_URL = "http://167.99.40.116";
+    public static final String PLACES_KEY = "AIzaSyCZ-gCb7UvwXp3PzwGKwTuB3FsCU-5i47E";
 
     public static final String NAMESPACE_DEFAULT = "1";
-    public static final double INITIAL_LATITUDE = -24.956552;
-    public static final double INITIAL_LONGITUDE = -53.459971;
+    public static final double INITIAL_LATITUDE = -23.689701;
+    public static final double INITIAL_LONGITUDE = -46.564874;
 }
